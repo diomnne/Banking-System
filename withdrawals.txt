@@ -1,0 +1,1 @@
+Withdrawal: PHP 890, New balance: PHP 50774.7

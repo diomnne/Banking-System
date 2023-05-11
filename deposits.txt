@@ -1,0 +1,4 @@
+Deposit: PHP50345.9, New balance: PHP 50345.9
+Deposit: PHP500.11, New balance: PHP 50846
+Deposit: PHP784.54, New balance: PHP 51630.5
+Deposit: PHP34.22, New balance: PHP 51664.7
